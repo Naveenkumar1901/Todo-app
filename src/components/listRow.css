@@ -1,0 +1,19 @@
+.list-items{
+min-height: 30px;
+width: 100%;
+background-color: grey;
+margin-top: 5px;
+margin-bottom: 5px;
+border-radius: 5px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 10px;
+
+
+
+
+
+
+
+}
